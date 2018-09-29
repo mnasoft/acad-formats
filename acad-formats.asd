@@ -1,6 +1,6 @@
 ;;;; acad-formats.asd
 
-(description
+(defsystem #:acad-formats
  :description "Describe acad-formats here"
  :author "Nick Matvyeyev <mnasoft@gmail.com>"
  :license "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 or later"

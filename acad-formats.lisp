@@ -1,6 +1,6 @@
 ;;;; acad-formats.lisp
 
-(in-package #:acad-formats)
+(in-package :acad-formats)
 
 (defun f (an x y)
   (loop for i from 1 to 9

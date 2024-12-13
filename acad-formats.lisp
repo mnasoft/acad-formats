@@ -1,5 +1,9 @@
 ;;;; acad-formats.lisp
 
+(defpackage :acad-formats
+  (:use #:cl)
+  (:export a-formats))
+
 (in-package :acad-formats)
 
 (defun f (an x y)
